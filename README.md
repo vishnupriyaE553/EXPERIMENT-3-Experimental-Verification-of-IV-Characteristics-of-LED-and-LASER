@@ -13,7 +13,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 - 1-meter fiber optic cable  
 - Digital Multimeter (DMM)  
 
----
+--
 
 ## 📚 THEORY
 
